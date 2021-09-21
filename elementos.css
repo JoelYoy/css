@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQA7fLeeKqJjXlMqWNMEouy8Mh_CT2CXPqg&usqp=CAU");
+    background-size: cover; /* cover para que la imagen no se repita */
+}
+
+
+.title{
+    text-align: center;
+    color:royalblue;
+    background-color: black;
+    border: 5px solid red;
+    margin: 50px;
+    border-style: dotted;
+
+}
+
+.subtitle{
+    background-color: red;
+    color:white;
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+
+}
+
+#caja, #caja2{
+    background-color: black;
+}
+
+#caja p, #caja2 p{
+    color:white;
+}
+
+#caja{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+     margin: 0 auto; 
+   /*  margin-top: 100px;
+    margin-bottom: 50px; */
+}

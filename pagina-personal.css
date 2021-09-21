@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdEYx7HAUPT0TyTMFm2X3_SWlHF174KFhn6g&usqp=CAU");
+  
+}
+
+#title {
+    color:black;
+    text-align: center;
+}
+
+h1{
+    text-align:  center;
+    font-size: 70px;
+    color:white;
+    background: linear-gradient(black,green);
+
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    border-style: solid;
+
+    border-width: 5px;
+    padding: 10px;
+    color:white;
+    text-shadow: 2px 8px red;
+}
+
+.p-large {
+    font-size: 30px;
+    
+}
+
+.p-white {
+    color:white;
+    background-color:black;
+    font-size: 20px;
+}
+
+.p-white {
+    color:white;
+    background-color:black;
+    font-size: 20px;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+    
+}
+
+ul{
+    color:white;
+}

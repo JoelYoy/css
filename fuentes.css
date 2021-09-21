@@ -1,0 +1,45 @@
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.font{
+    font-family: 'Oswald', sans-serif;
+}
+
+.title1{
+    font-family: 'Bonheur Royale', cursive;
+    color:red;
+    background-color:black;
+    text-align: center;
+}
+
+.title2{
+    font-family: 'Rubik Beastly', cursive;
+    color:green;
+    background-color:brown;
+    text-align: center;
+}
+
+.title3{
+    font-family: 'Lobster', cursive;
+    color:purple;
+    background-color: green;
+    text-align: center;
+}
+
+.title4{
+    font-family: 'Shadows Into Light', cursive;
+    color:orangered;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.title5{
+    font-family: 'Kaushan Script', cursive;
+    color:blue;
+    background-color: khaki;
+    text-align: center;
+    font-size: 50px;
+
+}

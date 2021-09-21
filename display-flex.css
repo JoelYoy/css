@@ -1,0 +1,41 @@
+.container{
+    width: 80%;
+    /* Altura minima del elemento */
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid black;
+    display: flex;
+    /* justify-content alinea elementos de manera horizontal */
+    /* justtify-conter alinea elementos de manera vertical */
+    justify-content: space-around;
+    /* Hace que los elementos se bajen */
+    flex-wrap: wrap;
+
+    align-items: flex-end;
+}
+
+.caja, .caja1, .caja2, .caja3, .caja4 {
+    width: 150px;
+    height: 150px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja1{
+    border: 2px solid red;
+
+}
+
+.caja2{
+    border: 2px solid yellow;
+    align-self: flex-end;
+}
+
+.caja3{
+    border: 2px solid royalblue;
+}
+
+.caja4{
+    border: 2px solid purple;
+}

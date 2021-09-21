@@ -1,0 +1,37 @@
+/* boody{
+    background-color:lightblue;
+} */
+
+#title {
+    color:green;
+    text-align: center;
+}
+
+h3{
+    color: lightgrey;
+}
+
+/* p{
+    color:mediumaquamarine;
+    background-color: black;
+} */
+
+.p-large {
+    font-size: 32px;
+}
+
+.p-green {
+    color:green;
+    background-color: hotpink;
+    font-size: 32px;
+}
+
+.p-red {
+    color:red;
+    background-color: black;
+    font-size: 32px;
+}
+
+h3{
+    color:red;
+} 
